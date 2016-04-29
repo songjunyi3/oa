@@ -7,3 +7,5 @@ master delete
 dev update02
 hello
 github
+ming tian ni jiu yao zou la
+ben cheng hen she bu de ni 
